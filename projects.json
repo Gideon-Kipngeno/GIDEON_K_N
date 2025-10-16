@@ -1,0 +1,35 @@
+[
+    {
+      "title": "E-commerce Platform",
+      "category": "Web",
+      "image": "images/projects/ecommerce.jpg",
+      "description": "Full-featured store with payments, inventory and analytics.",
+      "github": "https://github.com/yourname/ecommerce",
+      "demo": "https://example.com/demo"
+    },
+    {
+      "title": "PLP Final Project & Deployment",
+      "category": "Web",
+      "image": "Images/Greenwood.png",
+      "description": "My Power Learn Project (PLP) final web technologies classroom project — a fully deployed modern website built with HTML, CSS, and JavaScript.",
+      "github": "https://github.com/gideon-kipngeno/plp-webtechnologies-classroom-july2025-july-2025-final-project-and-deployment-Final-Project-and-Depl",
+      "demo": "https://gideon-kipngeno.github.io/plp-webtechnologies-classroom-july2025-july-2025-final-project-and-deployment-Final-Project-and-Depl/"
+    },
+    {
+      "title": "Hackathon Project",
+      "category": "Web",
+      "image": "Images/Hackathon.png",
+      "description": "A modern responsive web app created for a hackathon event, featuring a clean UI, interactive sections, and smooth animations — designed and deployed using HTML, CSS, and JavaScript.",
+      "github": "https://github.com/gideon-kipngeno/Hackathon",
+      "demo": "https://gideon-kipngeno.github.io/Hackathon/"
+    },
+    {
+      "title": "Health Tracker",
+      "category": "Mobile",
+      "image": "images/projects/health.jpg",
+      "description": "Fitness & nutrition tracking with analytics.",
+      "github": "https://github.com/yourname/health-tracker",
+      "demo": "https://health-demo.vercel.app"
+    }
+  ]
+  
